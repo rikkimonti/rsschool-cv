@@ -28,3 +28,8 @@ oldDate.setDate(oldDate.getDate() + 1);
 
 alert(oldDate);
 ``` 
+### Education (Courses)
+1. **«Software Design»**
+    *	*3.11.2018/3.12.2018* - HTML5&CSS3
+    *	*4.12.2018/4.012019* - JavaScript&jQuery
+2. **academy IT STEP**
