@@ -5,3 +5,12 @@
 **Email:** rikkimonti@gmail.com
 ### About me
 *I'm 25 years old. At the moment I have been studying at academy IT STEP for almost 1.5 years. I love making games and dream of starting my own company like RIOT GAME and making my own games in the future.*
+### Skills
+* HTML5, CSS3
+* JavaScript Basics
+* Git, GitHub
+* VS Code, IntelliJ IDEA
+* PHP(Laravel)
+* C/C++, C#
+* MySQL
+* Unity
