@@ -33,3 +33,7 @@ alert(oldDate);
     *	*3.11.2018/3.12.2018* - HTML5&CSS3
     *	*4.12.2018/4.012019* - JavaScript&jQuery
 2. **academy IT STEP**
+### Languages
+1.	Uzbek
+2.	Russian
+3.	English (B2)
