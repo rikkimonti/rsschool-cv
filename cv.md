@@ -14,3 +14,17 @@
 * C/C++, C#
 * MySQL
 * Unity
+### Code examples
+*Request a date (day, month, year) and output the following her date. Consider the possibility of moving to the next month, year, and leap year.*
+
+```
+let date = prompt("Enter date [dd.mm.yy]:");
+
+date = date.split('.');
+
+let oldDate = new Date(date[2], date[1] - 1, date[0]);
+
+oldDate.setDate(oldDate.getDate() + 1);
+
+alert(oldDate);
+``` 
